@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Express.js applications: missing error handling for empty or invalid request bodies in POST requests. The `bug.js` file shows the problematic code, while `bugSolution.js` provides a corrected version with robust error handling.  The application listens on port 3000.  Ensure you have Node.js and npm installed before running.
